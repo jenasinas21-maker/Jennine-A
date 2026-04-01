@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jennine Asinas | Virtual Assistant</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f7fa;
+    color: #333;
+}
+header {
+    background: #0f172a;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+header img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+section {
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+h2 {
+    color: #0f172a;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+.services, .skills {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+}
+.card {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #0f172a;
+    color: white;
+}
+a {
+    color: #38bdf8;
+    text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <img src="your-photo.jpg" alt="Jennine Asinas">
+    <h1>Jennine Mae B. Asinas</h1>
+    <p>Virtual Assistant | Customer Support Specialist</p>
+    <p>📍 Lucena City, Philippines</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        I am a highly organized Virtual Assistant with over 4 years of experience in 
+        customer service and administrative support. I specialize in managing tasks efficiently, 
+        helping businesses stay organized, and delivering excellent client support.
+    </p>
+</section>
+
+<section>
+    <h2>Services</h2>
+    <div class="services">
+        <div class="card">Email Management</div>
+        <div class="card">Calendar Scheduling</div>
+        <div class="card">Customer Support</div>
+        <div class="card">Data Entry</div>
+        <div class="card">Admin Support</div>
+        <div class="card">Canva Design</div>
+        <div class="card">AI Tools Assistance</div>
+    </div>
+</section>
+
+<section>
+    <h2>Experience</h2>
+    <p><strong>Customer Service Representative</strong> – The Petshop LLC (2016–2019)</p>
+    <ul>
+        <li>Handled multi-channel customer support</li>
+        <li>Resolved inquiries and tracked orders</li>
+        <li>Maintained accurate customer records</li>
+    </ul>
+
+    <p><strong>Admin Support</strong> – The Petshop LLC (2014–2016)</p>
+    <ul>
+        <li>Managed calls and emails</li>
+        <li>Performed data entry and documentation</li>
+        <li>Organized office workflows</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <div class="skills">
+        <div class="card">Google Workspace</div>
+        <div class="card">Canva</div>
+        <div class="card">ChatGPT / AI Tools</div>
+        <div class="card">Time Management</div>
+        <div class="card">Communication</div>
+        <div class="card">Attention to Detail</div>
+    </div>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>📧 jenasinas21@gmail.com</p>
+    <p>📱 +63 954 992 4263</p>
+    <p>🔗 <a href="https://linktr.ee/jenasinas21">My Links</a></p>
+</section>
+
+<footer>
+    <p>© 2026 Jennine Asinas | Virtual Assistant</p>
+</footer>
+
+</body>
+</html>
